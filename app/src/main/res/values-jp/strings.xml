@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Module1Assignment2-jp</string>
+    <string name="action_settings">Settings-jp</string>
+    <string name="button1_text">Text 1-jp</string>
+    <string name="button2_text">Text 2-jp</string>
+    <string name="button3_text">Text 3-jp</string>
+</resources>

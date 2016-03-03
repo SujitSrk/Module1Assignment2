@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Module1Assignment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_text">Text 1</string>
+    <string name="button2_text">Text 2</string>
+    <string name="button3_text">Text 3</string>
+
+</resources>
